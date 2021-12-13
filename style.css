@@ -9,7 +9,7 @@ body {
 
 .container {
   width: 100%;
-  margin: 100px 100px;
+  margin-top: 100px;
 }
 
 .text-container {
@@ -23,7 +23,7 @@ body {
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
   padding: 1.3em;
   background-color: #fff;
-  max-width: 500px;
+  width: 100%;
 }
 
 .form-btn-container {
@@ -48,12 +48,21 @@ h1 {
   width: 100%;
 }
 
+.try-free-btn:hover {
+  color: #fff;
+}
+
 .claim-trial-btn {
   background-color: #38cc8c;
   text-align: center;
   text-transform: capitalize;
   border: 1px solid #38cc8c;
   width: 100%;
+}
+
+.claim-trial-btn:hover {
+  background-color: #7ed8b1;
+  color: #fff;
 }
 
 .form-control {
