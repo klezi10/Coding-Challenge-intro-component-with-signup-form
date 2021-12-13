@@ -55,7 +55,7 @@ h1 {
 .claim-trial-btn {
   background-color: #38cc8c;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: uppercase;
   border: 1px solid #38cc8c;
   width: 100%;
 }
@@ -112,7 +112,7 @@ h1 {
   border: 1px solid hsl(0, 100%, 74%);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   body {
     background-image: url(/intro-component-with-signup-form-master/images/bg-intro-mobile.png);
     margin: 0;
