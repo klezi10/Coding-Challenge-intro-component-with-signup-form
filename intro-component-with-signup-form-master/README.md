@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-landing-page-with-form-kLHbdF96k)
 - Live Site URL: (https://stupefied-murdock-aa37bc.netlify.app/)
 
 ## My process
