@@ -14,7 +14,12 @@ body {
 
 .text-container {
   color: white;
-  padding: 160px 70px;
+  padding: 0 70px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
 }
 
 .form-container {
