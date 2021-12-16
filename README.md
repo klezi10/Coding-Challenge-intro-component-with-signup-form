@@ -42,7 +42,6 @@ Users should be able to:
 - HTML5
 - CSS properties
 - Flexbox
-- CSS Grid
 - Desktop-first workflow
 - Bootstrap
 
