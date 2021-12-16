@@ -7,6 +7,11 @@ body {
   margin: 0;
 }
 
+h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
 .container {
   width: 100%;
   margin-top: 100px;
@@ -35,11 +40,6 @@ body {
   max-width: 500px;
 }
 
-h1 {
-  font-weight: 700;
-  margin: 0;
-}
-
 .btn-branding {
   color: #fff;
   font-weight: 400px;
@@ -53,10 +53,6 @@ h1 {
   width: 100%;
 }
 
-.try-free-btn:hover {
-  color: #fff;
-}
-
 .claim-trial-btn {
   background-color: #38cc8c;
   text-align: center;
@@ -66,8 +62,7 @@ h1 {
 }
 
 .claim-trial-btn:hover {
-  background-color: #7ed8b1;
-  color: #fff;
+  filter: brightness();
 }
 
 .form-control {
